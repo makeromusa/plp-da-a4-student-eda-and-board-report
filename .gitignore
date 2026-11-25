@@ -1,0 +1,18 @@
+# Raw generated data files
+student_performance.csv
+duka_sales.csv
+duka_dashboard_data.csv
+
+# Temporary build & generator helper scripts
+build_*.py
+explore_*.py
+generate_dashboard_images.py
+generate_charts.py
+
+# Python cache & Jupyter checkpoints
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.pytest_cache/
+.DS_Store
